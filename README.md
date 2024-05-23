@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## About me
 
 💼 Data Scientist | Computer Vision Engineer | Deep Learning Researcher
